@@ -1,0 +1,11 @@
+{
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "notebook.formatOnSave.enabled": true,
+    "notebook.formatOnCellExecution": true,
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    }
+}

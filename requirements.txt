@@ -1,0 +1,8 @@
+requests
+gradio
+ollama
+openai
+wandb
+langchain_community
+langchain-openai
+langchain
